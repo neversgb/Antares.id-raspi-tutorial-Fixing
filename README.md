@@ -2,7 +2,7 @@
 Fixing the raspi tutorial in antares.id because it seen messy
 
 
-Please Read this if you stuck in antares main web tutorial (https://antares.id/en/raspi-tutorial.html)
+Please Read this if you stuck in antares main web tutorial (link to main tutorial : https://antares.id/en/raspi-tutorial.html)
 1. Instal Raspberry OS 
 (of course you need it) (the tutorial is so many and its depend how you do it)
 
