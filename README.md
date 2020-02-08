@@ -17,5 +17,5 @@ Please Read this if you stuck in antares main web tutorial (link to main tutoria
 
 for dht11_example tutorial, they do it good but fuck up in code, please copy-paste DHTTutor.py for true one
 
-
+my reviewe : https://neversgb.blogspot.com/2017/07/amplifier.html
 # Feel Free To ask 
